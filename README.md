@@ -11,8 +11,8 @@ Users can upload images to detect and highlight objects with bounding boxes and 
 ## How to Run the Project
 - Clone the Repository:
 
-`git clone <repository-url>`
-`cd <project-folder>`
+`git clone <repository-url>`  
+`cd <project-folder>`  
 
 - Install Dependencies: Use npm or yarn to install the project dependencies:
 
